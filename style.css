@@ -1,0 +1,30 @@
+
+
+*{
+  margin:20px;
+  background:#D4E1EF;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Roboto', sans-serif;
+}
+.container{
+  border:3px solid white;
+  background: white;
+  margin:auto;
+  border-radius: 15px;
+  border-width:6px;
+}
+h2,p{
+  background: white;
+ flex-wrap: nowrap;
+}
+
+.post{
+  background: white;
+  padding-top:0;
+  margin: 0;
+}
+.image{
+  width:90%;
+  align-items: center;
+border-radius:10px;
+}
